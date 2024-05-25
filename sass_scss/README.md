@@ -1,0 +1,1 @@
+Sass (Syntactically Awesome StyleSheets) is a powerful extension of CSS that enables developers to use variables, nested rules, mixins, functions, and more, making CSS more maintainable and efficient. SCSS (Sassy CSS) is the most commonly used syntax for Sass, offering a more CSS-like syntax.
